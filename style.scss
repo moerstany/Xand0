@@ -1,0 +1,18 @@
+.pole{
+display: flex;
+flex-wrap: wrap;
+width: 324px;
+height: 324px;
+background-color: rgb(246, 192, 241);
+}
+
+ .cell{
+    
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    align-items: center;
+    font-style: italic solid rgb(238, 214, 77);
+    border:3px solid rgb(170, 91, 146);
+   
+}
